@@ -1,0 +1,25 @@
+.card{
+    background-color: rgb(3, 172, 3);
+    width: 530px;
+    padding: 20px;
+    border: 3px solid rgb(38, 214, 76);
+    border-radius: 5px;
+    font-family: Verdana;
+}
+.card_thi{
+    background-color: rgb(238, 235, 47); 
+    width: 530px; padding: 20px; 
+    border: 3px solid rgb(255, 241, 44); 
+    border-radius: 5px; 
+    margin-top: 50px;
+    font-family: Verdana;
+}
+.avatar{
+    background-color: azure; 
+    width: 70px; 
+    height: 70px; 
+    border-radius: 200px;
+}
+.destaque{
+    color: rgb(12, 88, 44);
+}
